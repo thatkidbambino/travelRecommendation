@@ -6,7 +6,7 @@ body {
 }
 
 header {
-    background-color: #333;
+    background-color: hsl(195, 27%, 30%);
     color: #fff;
     padding: 1rem;
     text-align: center;
@@ -14,7 +14,7 @@ header {
 }
 
 nav {
-    background-color: #333;
+    background-color: hsl(195, 27%, 30%);
     overflow: hidden;
 }
 
@@ -39,7 +39,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    background-color: #575757;
+    background-color: hsl(195, 42%, 35%);
 }
 
 #search-bar {
@@ -49,14 +49,14 @@ nav ul li a:hover {
 
 #search-button, #reset-button {
     padding: 0.5rem 1rem;
-    background-color: #333;
+    background-color: hsl(195, 42%, 35%);
     color: white;
     border: none;
     cursor: pointer;
 }
 
 #search-button:hover, #reset-button:hover {
-    background-color: #575757;
+    background-color: hsl(195, 43%, 18%);
 }
 
 #home-intro {
