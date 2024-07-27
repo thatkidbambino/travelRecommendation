@@ -60,7 +60,7 @@ nav ul li a:hover {
 }
 
 #home-intro {
-    background-image: url('japan1.jpg'); /* Replace with your actual image path */
+    background-image: url('japan1.jpg');
     background-size: cover;
     background-position: center;
     height: 100vh;

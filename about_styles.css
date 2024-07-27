@@ -45,7 +45,7 @@ nav ul li a:hover {
 
 main {
     padding: 2rem;
-    background-image: url('japan1.jpg'); /* Replace with your actual image path */
+    background-image: url('japan1.jpg');
     background-size: cover;
     background-position: center;
     position: relative;
@@ -71,7 +71,7 @@ main::before {
 
 section {
     margin-bottom: 2rem;
-    background-color: rgba(255, 255, 255, 0.9); /* Slightly transparent background for sections */
+    background-color: rgba(255, 255, 255, 0.9);
     color: black;
     padding: 2rem;
     border-radius: 10px;
